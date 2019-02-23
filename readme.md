@@ -9,3 +9,6 @@ The idea behind this repository is to create a collection of corpus for Indian l
 
 ### Punjabi
 1. Punjabi Merge Corpus -- GurugranthSahib + corpus from TDIL-DC --
+
+### Tamil, Telugu, Malayalam
+1. https://dumps.wikimedia.org/backup-index.html 
